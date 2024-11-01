@@ -1,0 +1,63 @@
+# Copyright (C) 2016 Simple Child Theme Creator
+# This file is distributed under the same license as the Simple Child Theme Creator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Child Theme Creator 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-child-"
+"theme-creator\n"
+"POT-Creation-Date: 2016-10-21 14:03:47+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: simple-child-theme.php:16 view/admin.php:2
+msgid "Create Child Theme"
+msgstr ""
+
+#: simple-child-theme.php:23 simple-child-theme.php:44
+msgid "The currently active theme is already a child theme."
+msgstr ""
+
+#: simple-child-theme.php:38
+msgid "Try again."
+msgstr ""
+
+#: simple-child-theme.php:52
+msgid "No theme name provided."
+msgstr ""
+
+#: simple-child-theme.php:70
+msgid "Failed determining the current theme's stylesheet handler."
+msgstr ""
+
+#: simple-child-theme.php:78
+msgid ""
+"\"%s\" created at %s. You can now activate the theme in Appearance > Themes."
+msgstr ""
+
+#: view/admin.php:7
+msgid "Name"
+msgstr ""
+
+#: view/admin.php:13
+msgid "Create!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Child Theme Creator"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create a child theme properly in a single click!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cyrus David"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://jcyr.us"
+msgstr ""
